@@ -1,7 +1,3 @@
-﻿# Leptop_Price_Prediction_by_ML_Pipeline
-
- ## GitHub Project Overview
-
 # 💻 Laptop Price Prediction using Machine Learning Pipeline
 
 This project is an end-to-end Machine Learning application that predicts laptop prices based on different specifications such as brand, processor, RAM, storage, GPU, operating system, screen size, and more. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment using a web application.
@@ -39,7 +35,7 @@ This project is an end-to-end Machine Learning application that predicts laptop 
 ### 📈 Models Used
 
 * Linear Regression
-* Random Forest Regressor
+* Random Forest Regressor with 89.22 accuracy
 * XGBoost Regressor
 * Other Regression Techniques
 
